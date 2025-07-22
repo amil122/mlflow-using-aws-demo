@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/amil/OneDrive/Documents/mlops/mlflow_with_aws/mlruns/0/910a05202dd34e8685b8441cb1785d73/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 910a05202dd34e8685b8441cb1785d73
+run_name: legendary-pig-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037428556
+status: 1
+tags: []
+user_id: amil

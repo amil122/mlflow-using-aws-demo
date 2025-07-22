@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/amil/OneDrive/Documents/mlops/mlflow_with_aws/mlruns/0/86fdd189004c4e4f95679bd6266fec19/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86fdd189004c4e4f95679bd6266fec19
+run_name: nebulous-kite-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037529600
+status: 1
+tags: []
+user_id: amil

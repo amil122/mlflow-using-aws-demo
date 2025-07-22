@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/amil/OneDrive/Documents/mlops/mlflow_with_aws/mlruns/0/d6b6660bb1974b129c703c3dc3c0169a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6b6660bb1974b129c703c3dc3c0169a
+run_name: incongruous-ape-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037344582
+status: 1
+tags: []
+user_id: amil

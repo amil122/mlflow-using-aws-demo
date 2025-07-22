@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/amil/OneDrive/Documents/mlops/mlflow_with_aws/mlruns/0/84594cde88c14e5d9e13d7ea8b411614/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84594cde88c14e5d9e13d7ea8b411614
+run_name: placid-perch-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037417437
+status: 1
+tags: []
+user_id: amil

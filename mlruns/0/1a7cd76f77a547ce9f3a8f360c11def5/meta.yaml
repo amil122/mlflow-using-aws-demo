@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/amil/OneDrive/Documents/mlops/mlflow_with_aws/mlruns/0/1a7cd76f77a547ce9f3a8f360c11def5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a7cd76f77a547ce9f3a8f360c11def5
+run_name: carefree-shrimp-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753037278912
+status: 1
+tags: []
+user_id: amil
